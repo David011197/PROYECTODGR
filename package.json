@@ -1,0 +1,12 @@
+{
+    "name": "ProyectD",
+    "description": "proyecto DGR",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_david-Lenovo-ideapad-100-14IBY.json",
+            "credentialsFile": "flows_david-Lenovo-ideapad-100-14IBY_cred.json"
+        }
+    }
+}
